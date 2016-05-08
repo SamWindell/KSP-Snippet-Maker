@@ -301,3 +301,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+Builds/
+JuceLibraryCode/
+KSP Macro Builder.jucer
