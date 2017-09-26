@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>13F1911</string>
+	<key>CFBundleDisplayName</key>
+	<string>KSP-Snippet-Maker-OSX</string>
+	<key>CFBundleExecutable</key>
+	<string>KSP-Snippet-Maker-OSX</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.DavideMagni.KSPSnippetMakerOSX</string>
+	<key>CFBundleName</key>
+	<string>KSP-Snippet-Maker-OSX</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>6C131e</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>14A383</string>
+	<key>DTSDKName</key>
+	<string>macosx10.10</string>
+	<key>DTXcode</key>
+	<string>0620</string>
+	<key>DTXcodeBuild</key>
+	<string>6C131e</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Davide Magni</string>
+</dict>
+</plist>
